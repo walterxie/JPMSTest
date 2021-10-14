@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2a0ac54-d999-49d2-a695-cee7e56acb77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JPMSTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JPMSTest.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JPMSTest.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math2/math2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math2/src/math2/MyNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math2/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math3/math3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math3/src/math3/MyNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/math3/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymath/mymath.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymath/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mymath/src/mydistr/MixVersion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +153,7 @@
       <workItem from="1634165413381" duration="542000" />
       <workItem from="1634165973242" duration="1000" />
       <workItem from="1634166036085" duration="3933000" />
-      <workItem from="1634176437983" duration="453000" />
+      <workItem from="1634176437983" duration="636000" />
     </task>
     <servers />
   </component>
