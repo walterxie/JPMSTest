@@ -1,6 +1,6 @@
 # JPMSTest
 
-Can we depend on the different versions of a library under the Java Platform Module System?
+Can we depend the same Java module on the different versions of a library under the Java Platform Module System?
 
 My answer is __yes__.
 
